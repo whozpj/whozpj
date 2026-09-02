@@ -5,7 +5,7 @@ I'm a CS student at the University of Virginia.
 Currently a Software Development Engineer intern at AWS on the Agent Registry/Route 53 team. Interested in LLM agents, RAG systems, and cloud infrastructure.
 
 - Email: raprithvi@gmail.com
-- LinkedIn: [linkedin.com/in/prithvrajj](https://www.linkedin.com/in/prithvrajj/)
+- LinkedIn: [linkedin.com/in/prithvi-raj-whozpj](https://www.linkedin.com/in/prithvi-raj-whozpj/)
 
 ## Tech
 
