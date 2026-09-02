@@ -1,16 +1,22 @@
-## Hi there 👋
+# Prithvi Raj
 
-<!--
-**whozpj/whozpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Virginia.
 
-Here are some ideas to get you started:
+Currently a Software Development Engineer intern at AWS on the Agent Registry team. Interested in LLM agents, RAG systems, and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: raprithvi@gmail.com
+- LinkedIn: [prithvi-raj-whozpj](https://linkedin.com/in/prithvi-raj-whozpj)
+
+## Tech
+
+**Languages:** Python, Java, Go, TypeScript, JavaScript, C++, SQL
+
+**Frameworks & Libraries:** LangChain/LangGraph, PyTorch, Hugging Face Transformers, FastAPI, Django, GraphQL, React, pgvector, Redis, PostgreSQL
+
+**Cloud & Infrastructure:** AWS (Bedrock, ECS, RDS, S3, EMR, Spark), Terraform, GCP, Kubernetes, Docker
+
+## GitHub Stats
+
+![Prithvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=whozpj&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whozpj&layout=compact)
