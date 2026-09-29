@@ -14,3 +14,6 @@ Currently a Software Development Engineer intern at AWS on the Agent Registry/Ro
 **Frameworks & Libraries:** LangChain/LangGraph, PyTorch, Hugging Face Transformers, FastAPI, Django, GraphQL, React, pgvector, Redis, PostgreSQL
 
 **Cloud & Infrastructure:** AWS (Bedrock, ECS, RDS, S3, EMR, Spark), Terraform, GCP, Kubernetes, Docker
+
+
+Always looking for opportunities to build!
